@@ -1,0 +1,18 @@
+- Service la gi dich vu
+
+- Service <-> service con <-> repository <-> CSDL
+
+- Di du lich (Service lớn)
+    + Dat ve may bay (Service con)
+        + Len web tim ve (Đã tìm vé thành công - repository)
+        + Xem gio bay (Đã xem giờ bay thành công - repository)
+        + Tien hanh dat ve (service con)
+            + Tra tien (repository)
+            + Luu ket qua dat ve (repository)
+    + Dat phong ks
+        + Len web tim phong
+        + Xem chat luong phong
+        + Tien hanh dat phong
+    + Chuan bi tu trang
+        + Dung cu ca nhan
+        + Dung cu trang diem
